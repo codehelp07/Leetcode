@@ -1,60 +1,34 @@
-# Leetcode
-##This repository contains solutions to various LeetCode problems implemented in C++. Each solution is written with a focus on readability, performance, and adherence to best coding practices.
+# LeetCode Solutions in C++
 
-Table of Contents
-About
-Getting Started
-Problem List
-Contributing
-Resources
-About
-The goal of this repository is to provide clear, concise, and efficient solutions to problems from LeetCode. Each solution is accompanied by:
+This repository contains solutions to various **LeetCode problems** implemented in **C++**. Each solution focuses on clarity, efficiency, and best coding practices.
 
-Problem explanation
-Approach and algorithm
-Time and space complexity analysis
-Getting Started
-To use or test the code, follow these steps:
+## Table of Contents
 
-Clone the repository:
+1. [About](#about)
+2. [Getting Started](#getting-started)
+3. [Problem List](#problem-list)
+4. [Contributing](#contributing)
+5. [Resources](#resources)
 
-bash
-Copy
-Edit
-git clone <repository-url>  
-cd <repository-folder>  
-Compile and run the code:
+---
 
-bash
-Copy
-Edit
-g++ -o solution solution.cpp  
-./solution  
-Modify input values in the code to test different cases.
+## About
 
-Problem List
-Below is a list of problems currently included in the repository. Each problem links to its detailed solution and explanation:
+The purpose of this repository is to provide a collection of well-explained and optimized solutions for LeetCode problems.  
+Each solution includes:
+- A brief explanation of the problem
+- The approach and algorithm used
+- Complexity analysis (time and space)
 
-#	Problem Name	Solution File	LeetCode Link
-802	Find Eventual Safe States	802.cpp	LeetCode 802
+This repository is a helpful resource for anyone preparing for technical interviews or improving problem-solving skills.
 
-Contributions are welcome! If you'd like to contribute:
+---
 
-Fork the repository.
-Create a new branch:
-bash
-Copy
-Edit
-git checkout -b feature/problem-name  
-Add your solution and update the README file with the problem details.
-Commit your changes and push the branch:
-bash
-Copy
-Edit
-git push origin feature/problem-name  
-Submit a pull request.
-Resources
-LeetCode Website
-C++ Documentation
-If you have any questions or suggestions, feel free to open an issue.
+## Getting Started
 
+To use or test the solutions in this repository:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>

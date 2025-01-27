@@ -5,10 +5,6 @@ This repository contains solutions to various **LeetCode problems** implemented 
 ## Table of Contents
 
 1. [About](#about)
-2. [Getting Started](#getting-started)
-3. [Problem List](#problem-list)
-4. [Contributing](#contributing)
-5. [Resources](#resources)
 
 ---
 
@@ -23,12 +19,3 @@ Each solution includes:
 This repository is a helpful resource for anyone preparing for technical interviews or improving problem-solving skills.
 
 ---
-
-## Getting Started
-
-To use or test the solutions in this repository:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
